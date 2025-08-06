@@ -98,4 +98,4 @@ typedef struct listint_s
 ---
 
 Author
-Loïc Le Guen
+**[Loïc Le Guen](https://github.com/loicleguen)**
