@@ -1,4 +1,4 @@
-# Sorting Algorithms Project
+# Sorting Algorithms & Big O Project
 
 ## Description
 
@@ -34,6 +34,7 @@ Bubble Sort
 ./bubble_sort
 ```
 Prints the array after each swap.
+
 
 Insertion Sort
 
